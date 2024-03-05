@@ -15,11 +15,11 @@
 
 
 <h2 align="center">
-    ─「 𝗩𝗜𝗣 𝗠𝗨𝗦𝗜𝗖 」─
+    ─「 𝗞𝗜𝗧𝗧𝗬 𝗠𝗨𝗦𝗜𝗖 」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝐓𝐇𝐄+𝐕𝐈𝐏+𝐁𝐎𝐘+🎭">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝗞𝗜𝗧𝗧𝗬+𝗠𝗨𝗦𝗜𝗖+🎭">
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -32,10 +32,10 @@
 
 
 <p align="center">
-  <img src="https://te.legra.ph/file/7b51adb8645bb87510996.jpg">
+  <img src="https://telegra.ph/file/bf41e40b64bd809edcbdd.jpg">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗧𝗚🍷𝗩𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/TG_VC_BOT)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗞𝗜𝗧𝗧𝗬🌷𝗠𝗨𝗦𝗜𝗖❥𝄟⃟🥀](https://t.me/kittyxmusicbot)**
 
 
 
@@ -54,9 +54,9 @@
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/U8T5W3J1FNo?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/U8T5W3J1FNo)
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝐈𝐟+𝐀𝐧𝐲+𝐄𝐫𝐫𝐨𝐫+𝐓𝐡𝐞𝐧+𝐒𝐞𝐧𝐝+𝐄𝐫𝐫𝐨𝐫+𝐈𝐧+𝐕𝐢𝐩+𝐃𝐦+...">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝐈𝐟+𝐀𝐧𝐲+𝐄𝐫𝐫𝐨𝐫+𝐓𝐡𝐞𝐧+𝐒𝐞𝐧𝐝+𝐄𝐫𝐫𝐨𝐫+𝐈𝐧+𝐕+𝐃𝐦+...">
 <p align="center">
-<a href="https://telegram.me/THE_VIP_BOY"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐕𝐈𝐏 𝐁𝐎𝐘%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/it_f24"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗞𝗜𝗧𝗧𝗬 𝗠𝗨𝗦𝗜𝗖%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
@@ -90,8 +90,8 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 ━━━━━━━━━━━━━━━━━━━━
 ### Contact :
-<a href="https://t.me/THE_VIP_BOY_OP"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-<a href="https://instagram.com/the.vip.boy"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://t.me/it_f24"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://instagram.com/it_f24"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
