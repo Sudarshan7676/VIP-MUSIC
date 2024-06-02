@@ -32,7 +32,7 @@
 
 
 <p align="center">
-  <img src="">
+  <img src="https://telegra.ph/file/bf41e40b64bd809edcbdd.jpg">
 </p>
 
 **𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟abhi nahi banaya hai bad me bataunga
